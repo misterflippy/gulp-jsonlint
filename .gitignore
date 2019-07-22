@@ -4,3 +4,4 @@ coverage/
 node_modules/
 temp/
 npm-debug.log
+/.vs
